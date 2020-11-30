@@ -1,0 +1,1 @@
+# WGMEGS_skipspawning
